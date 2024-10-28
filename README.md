@@ -21,9 +21,9 @@ yes | pkg install libjansson wget nano
 3. Download ccminer, config, start:
 ```
 mkdir ccminer && cd ccminer
-wget https://raw.githubusercontent.com/sanakstore1/verus-miner/ccminer
-wget https://raw.githubusercontent.com/sanakstore1/verus-miner/config.json
-wget https://raw.githubusercontent.com/sanakstore1/verus-miner/start.sh
+wget https://raw.githubusercontent.com/sanakstore1/verus-miner/main/ccminer
+wget https://raw.githubusercontent.com/sanakstore1/verus-miner/main/config.json
+wget https://raw.githubusercontent.com/sanakstore1/verus-miner/main/start.sh
 chmod +x ccminer start.sh
 ```
 # Usage:

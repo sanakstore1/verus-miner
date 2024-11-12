@@ -13,8 +13,8 @@
             "disabled": 1
         },
         {
-            "name": "AP-LUCKPOOL",
-            "url": "stratum+tcp://ap.luckpool.net:3960",
+            "name": "EU-LUCKPOOL",
+            "url": "stratum+tcp://eu.luckpool.net:3960",
             "timeout": 180,
             "disabled": 0
         },
@@ -43,7 +43,7 @@
             "disabled": 1
         }],
 
-    "user": "RKNANTsa7FtMX6HUdyYxf4k4gpB7qwvvXy.aphone",
+    "user": "RKNANTsa7FtMX6HUdyYxf4k4gpB7qwvvXy.VERUS_MINER",
     "pass": "solo",
     "algo": "verus",
     "threads": 8,

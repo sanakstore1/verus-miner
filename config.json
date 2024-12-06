@@ -46,7 +46,7 @@
     "user": "RKNANTsa7FtMX6HUdyYxf4k4gpB7qwvvXy.cloudphone",
     "pass": "solo",
     "algo": "verus",
-    "threads": 0,
+    "threads": 20,
     "cpu-priority": 2,
     "cpu-affinity": -1,
     "retry-pause": 10,

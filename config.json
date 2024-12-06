@@ -13,8 +13,8 @@
             "disabled": 1
         },
         {
-            "name": "EU-LUCKPOOL",
-            "url": "stratum+tcp://eu.luckpool.net:3960",
+            "name": "AP-LUCKPOOL",
+            "url": "stratum+tcp://ap.luckpool.net:3960",
             "timeout": 180,
             "disabled": 0
         },
@@ -43,10 +43,10 @@
             "disabled": 1
         }],
 
-    "user": "RKNANTsa7FtMX6HUdyYxf4k4gpB7qwvvXy.VERUS_MINER",
+    "user": "RKNANTsa7FtMX6HUdyYxf4k4gpB7qwvvXy.cloudphone",
     "pass": "solo",
     "algo": "verus",
-    "threads": 8,
+    "threads": 0,
     "cpu-priority": 2,
     "cpu-affinity": -1,
     "retry-pause": 10,
